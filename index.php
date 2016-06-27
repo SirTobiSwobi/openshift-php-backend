@@ -1,3 +1,3 @@
 <?php 
-  echo "Hello SolAr Team"; 
+  echo "Hello ".$_GET["name"]." Team"; 
 ?>
