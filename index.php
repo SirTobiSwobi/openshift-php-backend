@@ -1,1 +1,3 @@
-<? echo "Hello SolAr Team"; ?>
+<?php 
+  echo "Hello SolAr Team"; 
+?>
